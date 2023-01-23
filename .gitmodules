@@ -1,0 +1,3 @@
+[submodule "exercise1/dt-sample-program"]
+	path = exercise1/dt-sample-program
+	url = git@github.com:WINUprj/dt-sample-program.git
