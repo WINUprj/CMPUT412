@@ -2,6 +2,13 @@
 Course project repository.
 
 ## Update Log
+#### 12/Feb/2023:
+- Added all the Exercise 2 codes under directory `exercise2`.
+- File/directory descriptions in `exercise2`:
+    - `l2p2`: External repo which contains the code for exercise 2 part 1.1 and 1.2.
+    - `if_bag_best.bag`: Bag file with respect to initial robot frame.
+    - `wf_bag_best.bag`: Bag file with respect to world frame.
+
 #### 22/Jan/2023:
 - Added all the Exercise 1 codes under directory `exercise1`.
 - File/directory descriptions in `exercise1`:
