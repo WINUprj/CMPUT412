@@ -1,0 +1,4 @@
+./exercise2/data
+*.lock
+*.toml
+*.mp4
