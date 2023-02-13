@@ -1,3 +1,6 @@
 [submodule "exercise1/dt-sample-program"]
 	path = exercise1/dt-sample-program
 	url = git@github.com:WINUprj/dt-sample-program.git
+[submodule "exercise2/l2p2"]
+	path = exercise2/l2p2
+	url = git@github.com:WINUprj/l2p2.git
