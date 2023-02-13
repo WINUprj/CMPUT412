@@ -1,5 +1,5 @@
 # CMPUT412
-Course project repository.
+Lab repository for a course CMPUT 412 @ University of Alberta, made for recording the lab activities throughout the semester (W23).
 
 ## Update Log
 #### 12/Feb/2023:
@@ -17,3 +17,9 @@ Course project repository.
 	- `color_detector.py`: Python file to run in container. Communicate with camera on a Duckiebot and process the given image (mainly averaging colors).
 	- `requirements.txt`: Usually used for building a custom Python environment in container. In this lab, we did not use it as all the requirements were included in a base image.
 - *Note: For `dt-sample-program`, please refer to v2 branch for updated codes.*
+
+## Authors
+Haruto Tanaka (haruto@ualberta.ca)
+
+## License
+None
