@@ -4,3 +4,6 @@
 [submodule "exercise2/l2p2"]
 	path = exercise2/l2p2
 	url = git@github.com:WINUprj/l2p2.git
+[submodule "exercise3/l3"]
+	path = exercise3/l3
+	url = https://github.com/WINUprj/l3
