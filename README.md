@@ -6,8 +6,8 @@ Lab repository for a course CMPUT 412 @ University of Alberta, made for recordin
 - Added all the Exercise 3 codes under directory `exercise3`.
 - File/directory descriptions in `exercise3`:
     - `l3`: External repo which contains all the codes for exercise 3.
-    - `frame_before.pdf`: PDF file containing the transform tree graph before attaching odometry frame to footprint frame. 
-    - `frame_after.pdf`: PDF file containing the transform tree graph after attaching odometry frame to footprint frame. 
+    - `frames_before.pdf`: PDF file containing the transform tree graph before attaching odometry frame to footprint frame. 
+    - `frames_after.pdf`: PDF file containing the transform tree graph after attaching odometry frame to footprint frame. 
 
 #### 12/Feb/2023:
 - Added all the Exercise 2 codes under directory `exercise2`.
