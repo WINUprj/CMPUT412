@@ -2,7 +2,12 @@
 Lab repository for a course CMPUT 412 @ University of Alberta, made for recording the lab activities throughout the semester (W23).
 
 ## Update Log
-#### 5/May/2023:
+#### 14/Mar/2023:
+- Added all the Exercise 4 codes under directory `exercise4`.
+- File/directory descriptions in `exercise4`:
+    - `l4`: External repo which contains all the codes for exercise 4.
+
+#### 5/Mar/2023:
 - Added all the Exercise 3 codes under directory `exercise3`.
 - File/directory descriptions in `exercise3`:
     - `l3`: External repo which contains all the codes for exercise 3.
