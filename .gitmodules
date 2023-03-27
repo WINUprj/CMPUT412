@@ -13,3 +13,6 @@
 [submodule "exercise5/--name"]
 	path = exercise5/--name
 	url = https://github.com/WINUprj/l5
+[submodule "l5_"]
+	path = exercise5/l5
+	url = https://github.com/WINUprj/l5
