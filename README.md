@@ -2,6 +2,15 @@
 Lab repository for a course CMPUT 412 @ University of Alberta, made for recording the lab activities throughout the semester (W23).
 
 ## Update Log
+#### 27/Mar/2023:
+- Added all the Exercise 5 codes under directory `exercise5`.
+- File/directory descriptions in `exercise5`:
+    - `l5`: External repo which contains the codes for the nodes which runs on duckiebot (drive and apriltag).
+	- `l5_pred`: External repo which contains the codes for a node which runs on laptop (digit prediction).
+	- `train.ipynb`: Notebook for training the original model.
+
+**NOTE!!!!**: For `l5_pred`, please refer to branch `v3`, not the default `v2` branch!!!!
+
 #### 14/Mar/2023:
 - Added all the Exercise 4 codes under directory `exercise4`.
 - File/directory descriptions in `exercise4`:
