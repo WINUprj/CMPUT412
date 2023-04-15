@@ -19,3 +19,6 @@
 [submodule "l5_pred_"]
 	path = exercise5/l5_pred
 	url = https://github.com/WINUprj/l5_pred
+[submodule "final_project/final_project"]
+	path = final_project/final_project
+	url = git@github.com:WINUprj/final_project.git
